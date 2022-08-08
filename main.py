@@ -1,3 +1,5 @@
+#Emmanuel Agormeda-Tetteh 10968137
+
 #Take input from user
 Final = int(input("Find sum of prime numbers with the limit being? : "))
 
